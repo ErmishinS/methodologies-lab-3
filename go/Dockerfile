@@ -15,6 +15,7 @@ FROM scratch
 WORKDIR /app
 
 COPY --from=builder /app/fizzbuzz .
+COPY --from=builder /app/templates ./templates
 
 EXPOSE 8080
 
