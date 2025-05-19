@@ -3,11 +3,11 @@
 This repository contains three small applications written in Python, Go, and JavaScript (Node.js). They are used for experimenting with Docker containerization, image optimization, and orchestration with Docker Compose as part of a university lab on software development technologies.
 
 ## 📁 Project Structure
-.
-├── python/     # Python FastAPI application with uvicorn
-├── go/         # Go Fiber web application
-├── js/         # Node.js Express application with MongoDB
-└── README.md
+- .
+- ├── python/
+- ├── go/    
+- ├── js/    
+- └── README.md
 
 ---
 
