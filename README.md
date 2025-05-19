@@ -47,7 +47,7 @@ Each project is used to evaluate:
 ## 📚 Technologies Used
 
 - Python 3.13, FastAPI, Uvicorn
-- Go 1.22, Fiber
+- Go 1.22
 - Node.js 18, Express, MongoDB
 - Docker, Docker Compose
 
